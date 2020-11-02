@@ -1,0 +1,6 @@
+name: "genetic"
+pop_size: 20
+elitism: 5
+mutation: 0.5
+# TODO
+variation_scale: 0.05

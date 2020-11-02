@@ -1,0 +1,14 @@
+name: "recuit"
+init_temp:
+  type : "type1"
+  param: {}
+decrease:
+  type: "static"
+  param:
+    factor: 0.9
+penalizer:
+  type: "default"
+  param:
+    scale: 1000
+variation_scale: 0.05
+

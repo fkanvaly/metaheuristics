@@ -1,0 +1,6 @@
+numpy
+matplotlib
+texttable
+tqdm
+seaborn
+pyyaml
